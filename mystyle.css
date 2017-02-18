@@ -44,7 +44,7 @@ body
 
 h1{
 	color: white;
-	font-size: 50px;
+	font-size: 60px;
 	position: relative;
 	top: 355px;
 	text-align: center;
@@ -58,7 +58,7 @@ h1{
     
 
 h2{
-	font-size: 40px;
+	font-size: 35px;
 	font-family: font;
 	text-align: center;
 	position: relative;
@@ -71,7 +71,7 @@ h2{
 }
 
 h3{
-	font-size: 40px;
+	font-size: 35px;
 	font-family: font;
 	text-align: center;
 	position: relative;
@@ -84,7 +84,7 @@ h3{
 }
 
 h4{
-	font-size: 40px;
+	font-size: 35px;
 	font-family: font;
 	text-align: center;
 	position: relative;
