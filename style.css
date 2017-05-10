@@ -108,6 +108,9 @@ a {
 @media all and (max-width: 500px) {
   .vid-info .acronym { display: none; 
 }
+	
+@font-face {
+	font-family: "Roboto";
 }
 
 h1 {
