@@ -142,3 +142,16 @@ h4 {
   text-decoration: none;
 }
 
+a:link {
+color: white;
+text-decoration: none;
+}
+
+a:visited {
+color: white;
+}
+
+a:hover {
+color: slategray;
+text-decoration: none;
+}
