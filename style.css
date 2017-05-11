@@ -113,7 +113,7 @@ a {
 h1 {
 font-size: 100px;
   color: #FFFFFF ;
-  font-family: Futura-Heavy;
+  font-family: Roboto, sans-serif;
   text-align: center;
   text-decoration: none;
 }
@@ -121,14 +121,14 @@ font-size: 100px;
 h2 {
 font-size: 30px;
   color: #FFFFFF ;
-  font-family: Futura-Heavy;
+  font-family: Roboto, sans-serif;
   text-align: center;
   text-decoration: none;
 }
 
 h3 {
   color: #FFFFFF ;
-  font-family: Futura-Heavy;
+  font-family: Roboto, sans-serif;
   text-align: center;
   font-size: 40px;
   text-decoration: none;
@@ -136,7 +136,7 @@ h3 {
 
 h4 {
   color: #FFFFFF ;
-  font-family: Futura-Heavy;
+  font-family: Roboto, sans-serif;
   text-align: center;
   font-size: 40px;
   text-decoration: none;
